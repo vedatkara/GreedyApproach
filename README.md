@@ -1,5 +1,5 @@
 # GreedyApproach
-Solving a problem by using Dynamic Programming method in Java
+Solving a problem by using Greedy method in Java
 Scenario of the Assignment:
 Assume that you are the owner of a football club. Your club has enough trainers to improve and
 promote ‘p’ players to the main squad from the youth team. Some other clubs ask to rent players
